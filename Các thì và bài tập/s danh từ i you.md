@@ -97,3 +97,115 @@ tobe
   ? s + have/has + been... Have you been busy today?
 
 dấu hiệu: just, already, yet, ever, nerver, recently, lately, so far, up to now, since, for
+
+Th db
+
+- since 2024 for five years
+- I have lived here for five years
+- have you eaten yet? -> Banj awn chua
+- i have been to Japan
+
+hdhttd: Hanhf doodngj su viec diễn ra tỏng quá khứ và kéo dài đến thời điểm hiện tại
+
+- s + have/has + been + Ving
+
+* s + have/has not + been + Ving
+  ? Have/has + S + been + Ving
+
+Daaus hieeuj: since, for, allday, all morrning, lately, recently, how long ...?
+
+vd: thbd
+
+- i have read the book -> nhaans manh ket qua, da doc xong hoac da doc cuon sach
+- i have been reading the book -> quas trinh doc, chua chac da xong
+
+know, own. believe thuowngf dung cho htht chu ko dung cho hthttd
+
+B
+Thi Qua khu
+
+QKD dt thuong
+
+- S + V2 => I slept last night
+
+* S + didn't + V1 => I didn't sleep last night.
+  ? Did + S + V1 => Did you sleep last night?
+
+dt tobe
+
+- S + was/were + ...
+
+* S + was/were + not
+  ? was/were + S +...
+
+Dh: last night, last day, ago, in 2o1o, yesterday. the other day
+
+QKTD
+
+- hành động diễn ra tại 1 thời điểm trong quá khứ, hành động đang diễn ra thì có hđ khác xen vào. cùng nhau thực hiện
+  tobe
+
+* S + was/were + V-ing
+
+- S + wasn't/weren't + V-ing
+  ? Was/were + S + V-ing
+
+S + was/were + being + adj
+=> He was being rude
+
+at 8p.m, yesterday, at that time. while, when
+
+thdb
+
+- 2 sự việc xẩy ra cùng 1 lúc
+  vd: when I was sleeping, has was studying
+  when i arrived, she was cooking
+
+mẹo: hành động đang diễn ra thường dùng quá khứ td, hadnhf động xen vào thì dùng qktd
+
+QKHT: hành động đã xảy ra trước một hành động hoặc mốc thời gian khác nahu trong quá khứ
+
+- S + had + V3
+
+* s + had not + V3
+  ? had + S + V3
+
+to
+
+- s + had + been + Adj/N
+
+vd: I had been tired before i went to bed
+
+dấu hiệu: before, after, already, just, never...
+
+vd: thdb
+
+- when i arrived, he had left
+
+/: QKHTTD nhấn mạnh 1 hành động đã kéo dài bao lâu trước 1 mốc hoặc hành động tỏng quá khứ
+
+s + had + been + V-ing : I had been studying for two hours when he arrived
+
+TLD: dự đoán, qđ ngay lúc nói, lời hứa, đề nghị sự vật trong tương lai
+
+TL
+
+TLD: Dự đoán, quyết định ngay lúc nói. lời hứa, đề nghị hoẵ sự việc sẽ xay ra trong tương lai
+
+DTT:
+s + will + v1
+s + won't + v1
+will + S + V1
+
+tobe
+
+s + will + be + adj/N
+s + wont' + be + adj/n?
+will + s + be + adj/N
+
+dh: tomorrow, next week, sooon, in the future
+thdb" quyeest dinhj ngay: the phone is ringing. I will answer it
+
+- loiwf huaws: i will help you
+- du done: i think it will rain tomorrow
+- Dự định đã có từ trước thường dùng `be going to`: `I'm going to learn English.`
